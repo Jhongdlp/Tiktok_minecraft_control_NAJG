@@ -1,0 +1,17 @@
+{
+  "name": "tiktok_minecraft_control_najg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "tiktok-live-connector": "^1.2.3"
+  }
+}

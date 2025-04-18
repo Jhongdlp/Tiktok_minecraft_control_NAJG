@@ -1,0 +1,21 @@
+{
+  "likes": [
+    {
+      "cantidad": 10,
+      "comando": "summon ola"
+    },
+    {
+      "cantidad": 10,
+      "comando": "asdas"
+    }
+  ],
+  "shares": [],
+  "follows": [
+    {
+      "cantidad": 10,
+      "comando": "/effect give @p speed 30"
+    }
+  ],
+  "gifts": [],
+  "username": "_elizabeth20__"
+}
